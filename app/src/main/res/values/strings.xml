@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="post_title">Post Title</string>
+    <string name="description">Post Description</string>
+    <string name="categories">Select Categories</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+</resources>
